@@ -1,5 +1,6 @@
 package br.ifnmg.edu.user;
 
+
 import br.ifnmg.edu.repository.Dao;
 import br.ifnmg.edu.repository.DbConnection;
 import static br.ifnmg.edu.user.User.converterStringToLocalDateTime;
