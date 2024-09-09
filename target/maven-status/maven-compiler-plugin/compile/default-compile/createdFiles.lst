@@ -1,0 +1,7 @@
+br\ifnmg\edu\entity\Entity.class
+br\ifnmg\edu\user\UserDao.class
+br\ifnmg\edu\user\User.class
+br\ifnmg\edu\datapersistences\DataPersistences.class
+br\ifnmg\edu\repository\Dao.class
+br\ifnmg\edu\repository\DbConnection.class
+br\ifnmg\edu\repository\IDao.class
